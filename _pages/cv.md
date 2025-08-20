@@ -11,54 +11,48 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Cognitive Neuroscience, Institute of Psychology, Chinese Academy of Sciences, 2018
+* B.Ed. in Applied Psychology, China Women’s University, 2013
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024.12 – present: Visiting Scholar
+  * Department of Psychiatry, University of Oxford
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2024.05 – present: Leverhulme Early Career Fellow 
+  * Centre for Human Brain Health, University of Birmingham
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2025.06 – 07: AI Resident 
+  * The Machine Learning Institute, London
+
+* 2018.08 – 2024.04: Postdoc Researcher
+  * Centre for Human Brain Health, University of Birmingham
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Advanced analytical expertise in neuroimaging data
+  * MEG, scalp and intracranial EEG
+    * time-series analysis (power spectrum, time frequency representations, cross-frequency coupling, Granger causality)
+* Strong programming skills
+  * Python, R, MATLAB
+* Expertise in designing and conducting experiments
+  * eye-tracking and behavioural methods
+* Proficiency in stimulus presentation for psychology studies
+  * Psychtoolbox and PsychoPy
+* In-depth knowledge of machine learning techniques
+  * SVM, k-means clustering, DNN, CNN, NLP
+* Extensive experience with statistical analysis
+  * parametric test (t-test, ANOVA)
+  * non-parametric test (cluster-based permutation)
+* linear mixed-effects modelling
+* multivariate pattern analysis (RSA decoding)
 
-Publications
+Grants & Awards
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2024 Leverhulme Trust Early Career Fellowship, UK (PI: £248,000)
+* 2024 Royal Society International Exchanges Cost Share Programme (NSFC), UK (PI: £12,000)
+* 2022 Winner of the Pump Prime funds at the University of Birmingham, UK (£500)
+* 2021 Best Postdoc Paper at Centre of Human Brain Health, University of Birmingham, UK (£100)
+* 2017 Mingde scholarship, Chinese Academy of Sciences, China (≈ £300)
+* 2013 – 2017 Scholarship for graduates, Chinese Academy of Sciences, China (≈ £300 per year)
+
