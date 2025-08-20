@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+For a detailed CV, please see [here](files/cv.pdf){:target="_blank"}.
+
 Education
 ======
 * Ph.D in Cognitive Neuroscience, Institute of Psychology, Chinese Academy of Sciences, 2018
