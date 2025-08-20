@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-For a detailed CV, please see [here](files/cv.pdf){:target="_blank"}.
+For a detailed CV, please see [here](/files/cv.pdf){:target="_blank"}.
 
 Education
 ======
