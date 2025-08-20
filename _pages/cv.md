@@ -55,5 +55,5 @@ Skills
 * Extensive experience with statistical analysis
   * parametric test (t-test, ANOVA)
   * non-parametric test (cluster-based permutation)
-* linear mixed-effects modelling
-* multivariate pattern analysis (RSA decoding)
+  * linear mixed-effects modelling
+  * multivariate pattern analysis (RSA decoding)
