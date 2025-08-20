@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -27,7 +27,16 @@ Work experience
 
 * 2018.08 – 2024.04: Postdoc Researcher
   * Centre for Human Brain Health, University of Birmingham
-  
+
+Grants & Awards
+======
+* 2024 Leverhulme Trust Early Career Fellowship, UK (PI: £248,000)
+* 2024 Royal Society International Exchanges Cost Share Programme (NSFC), UK (PI: £12,000)
+* 2022 Winner of the Pump Prime funds at the University of Birmingham, UK (£500)
+* 2021 Best Postdoc Paper at Centre of Human Brain Health, University of Birmingham, UK (£100)
+* 2017 Mingde scholarship, Chinese Academy of Sciences, China (≈ £300)
+* 2013 – 2017 Scholarship for graduates, Chinese Academy of Sciences, China (≈ £300 per year)
+
 Skills
 ======
 * Advanced analytical expertise in neuroimaging data
@@ -46,13 +55,3 @@ Skills
   * non-parametric test (cluster-based permutation)
 * linear mixed-effects modelling
 * multivariate pattern analysis (RSA decoding)
-
-Grants & Awards
-======
-* 2024 Leverhulme Trust Early Career Fellowship, UK (PI: £248,000)
-* 2024 Royal Society International Exchanges Cost Share Programme (NSFC), UK (PI: £12,000)
-* 2022 Winner of the Pump Prime funds at the University of Birmingham, UK (£500)
-* 2021 Best Postdoc Paper at Centre of Human Brain Health, University of Birmingham, UK (£100)
-* 2017 Mingde scholarship, Chinese Academy of Sciences, China (≈ £300)
-* 2013 – 2017 Scholarship for graduates, Chinese Academy of Sciences, China (≈ £300 per year)
-
