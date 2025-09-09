@@ -9,9 +9,10 @@ author_profile: true
 
 
 You can also find my papers on [my Google Scholar profile](https://scholar.google.com/citations?user=UAtOWA4AAAAJ&hl=en)  
-(*) denotes corresponding/sensor authorship  
+  
 (Disclaimer: The papers available on this website are provided for personal and educational use only. Any reproduction, distribution, or use of these materials for other purposes is strictly prohibited.)  
-
+  
+(*) denotes corresponding/sensor authorship  
 
 Natural Reading
 ======
