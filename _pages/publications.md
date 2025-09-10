@@ -8,11 +8,11 @@ author_profile: true
 {% include base_path %}
 
 
-#### You can also find my papers on [my Google Scholar profile](https://scholar.google.com/citations?user=UAtOWA4AAAAJ&hl=en)  
+## You can also find my papers on [my Google Scholar profile](https://scholar.google.com/citations?user=UAtOWA4AAAAJ&hl=en)  
   
-#### (Disclaimer: The papers available on this website are provided for personal and educational use only. Any reproduction, distribution, or use of these materials for other purposes is strictly prohibited.)  
+### (Disclaimer: The papers available on this website are provided for personal and educational use only. Any reproduction, distribution, or use of these materials for other purposes is strictly prohibited.)  
   
-#### (*) denotes corresponding/sensor authorship  
+### (*) denotes corresponding/sensor authorship  
 
 # Natural Reading  
 ### 8. [Prigorkina, V., Sheridan, H., Frisson, S., & Pan, Y. (*) (2025, September 9). Lexical Word Processing is Unaffected by Rapid Invisible Frequency Tagging in Reading: Evidence from Eye Movements](https://osf.io/preprints/psyarxiv/jbsdk_v1)  
