@@ -42,7 +42,8 @@ Pan, Y. (*), Popov, T., Frisson, S., & Jensen, O. (2023, PLoS Biology, 21(1), e3
 📄 [Paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001968)    |    💻 [Code](https://github.com/yalipan666/Saccade-Alpha-phase)    |    💾 [datasets](https://figshare.com/account/mycontent/projects/117885)      
 Showed that oculomotor activity in reading is not noise but plays a critical role in word processing by phase-locking to endogenous alpha oscillations. This opens new avenues to understand the functional roles of neuronal oscillations in naturalistic scenarios involving eye movements.    
 ### 2.  An oscillatory pipelining mechanism supporting previewing during visual exploration and reading   
-Jensen, O., Pan, Y., Frisson, S., & Wang, L. (2021, Trends in Cognitive Sciences. 25(12), 1033-1044)    
+Jensen, O., Pan, Y., Frisson, S., & Wang, L. (2021, Trends in Cognitive Sciences. 25(12), 1033-1044)   
+Developed a neuroscience framework to explain how the human brain can process the currently fixated item (e.g., images, words) alongside the to-be-fixated item, while avoiding interference between foveal and parafoveal representations. We propose that this is achieved by encoding the two representations in different phases of the alpha cycle — an alpha-oscillation-based pipelining mechanism.    
 📄 [Paper](https://www.sciencedirect.com/science/article/pii/S1364661321002254)     
 ### 1.  Neural evidence for lexical parafoveal processing    
 Pan, Y. (*), Frisson, S., & Jensen, O. (2021, Nature Communications, 12(1), 1-9)  
