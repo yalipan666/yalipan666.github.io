@@ -26,21 +26,21 @@ author_profile: true
 # Research Supervision  
 ### -	Postdoctoral researcher at University of Oxford (co-supervised with PI):    
 <span style="font-size:0.9em;">1)	2024.02 – present &nbsp&nbsp Jiaqi Li   
-2)	2024.12 – present &nbsp&nbsp Xuan Cui   
+2)	2024.12 – present &ensp; Xuan Cui   
  </span>
 ### -	PhD students at University of Birmingham (co-supervised with PI):    
 <span style="font-size:0.9em;">1)	2021.09 – present &nbsp&nbsp  Lijuan Wang   
-2)	2023.10 – 2024.10 &nbsp&nbsp Xiaohui Cui (visiting from Chinese Academy of Sciences)   
-3)	2021.10 – 2022.10 &nbsp&nbsp Dongwei Li (visiting from Beijing Normal University)   
+2)	2023.10 – 2024.10 &ensp; Xiaohui Cui (visiting from Chinese Academy of Sciences)   
+3)	2021.10 – 2022.10 &ensp; Dongwei Li (visiting from Beijing Normal University)   
 </span>
 ### -	Master students at University of Birmingham    
 <span style="font-size:0.9em;">1)	2023.12 – 2024.07  &nbsp&nbsp Veronika Prigorkina (progressed to a PhD)   
-2)	2022.09 – 2023.05 &nbsp&nbsp  Brooke Cannon, Victoria Gorneva   
+2)	2022.09 – 2023.05 &ensp;  Brooke Cannon, Victoria Gorneva   
 </span>
 ### -	Undergraduate students    
-<span style="font-size:0.9em;">1)	2021.10 – 2023.06 &nbsp&nbsp Tamseel Naveed, Abbie Evans (University of Birmingham; progressed to an MSc)   
-2)	2020.07 – 2020.10	&nbsp&nbsp Sai Sumedh (visiting from the Indian Institute of Technology; progressed to a PhD)   
-3)	2017.09 – 2018.07	&nbsp&nbsp Jiali Liu (Chinese Academy of Sciences; progressed to a PhD)   
+<span style="font-size:0.9em;">1)	2021.10 – 2023.06 &ensp; Tamseel Naveed, Abbie Evans (University of Birmingham; progressed to an MSc)   
+2)	2020.07 – 2020.10	&ensp; Sai Sumedh (visiting from the Indian Institute of Technology; progressed to a PhD)   
+3)	2017.09 – 2018.07	&ensp; Jiali Liu (Chinese Academy of Sciences; progressed to a PhD)   
 </span>
 <br>
 <br>
