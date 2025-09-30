@@ -25,16 +25,16 @@ author_profile: true
 
 # Research Supervision  
 ### -	Postdoctoral researcher at University of Oxford (co-supervised with PI):    
-<span style="font-size:0.9em;">1)	2024.02 – present &nbsp&nbsp Jiaqi Li   
+<span style="font-size:0.9em;">1)	2024.02 – present &ensp; Jiaqi Li   
 2)	2024.12 – present &ensp; Xuan Cui   
  </span>
 ### -	PhD students at University of Birmingham (co-supervised with PI):    
-<span style="font-size:0.9em;">1)	2021.09 – present &nbsp&nbsp  Lijuan Wang   
+<span style="font-size:0.9em;">1)	2021.09 – present &ensp;  Lijuan Wang   
 2)	2023.10 – 2024.10 &ensp; Xiaohui Cui (visiting from Chinese Academy of Sciences)   
 3)	2021.10 – 2022.10 &ensp; Dongwei Li (visiting from Beijing Normal University)   
 </span>
 ### -	Master students at University of Birmingham    
-<span style="font-size:0.9em;">1)	2023.12 – 2024.07  &nbsp&nbsp Veronika Prigorkina (progressed to a PhD)   
+<span style="font-size:0.9em;">1)	2023.12 – 2024.07  &ensp; Veronika Prigorkina (progressed to a PhD)   
 2)	2022.09 – 2023.05 &ensp;  Brooke Cannon, Victoria Gorneva   
 </span>
 ### -	Undergraduate students    
