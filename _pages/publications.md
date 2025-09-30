@@ -42,8 +42,8 @@ Pan, Y. (*), Popov, T., Frisson, S., & Jensen, O. (2023, PLoS Biology, 21(1), e3
 📄 [Paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001968)    |    💻 [Code](https://github.com/yalipan666/Saccade-Alpha-phase)    |    💾 [datasets](https://figshare.com/account/mycontent/projects/117885)   
 Showed that oculomotor activity in reading is not noise but plays a critical role in word processing by phase-locking to endogenous alpha oscillations. This opens up new avenues for understanding the functional roles of neuronal oscillations in naturalistic scenarios involving eye movements.    
 ### * An oscillatory pipelining mechanism supporting previewing during visual exploration and reading   
-📄 [Paper](https://www.sciencedirect.com/science/article/pii/S1364661321002254)     
 Jensen, O., Pan, Y., Frisson, S., & Wang, L. (2021, Trends in Cognitive Sciences, 25(12), 1033-1044)   
+📄 [Paper](https://www.sciencedirect.com/science/article/pii/S1364661321002254)     
 Developed a neuroscience framework to explain how the human brain can process the currently fixated item (e.g., images, words) alongside the to-be-fixated item, while avoiding interference between foveal and parafoveal representations. We propose that this is achieved by encoding the two representations in different phases of the alpha cycle — an alpha-oscillation-based pipelining mechanism.    
 ### * Neural evidence for lexical parafoveal processing    
 Pan, Y. (*), Frisson, S., & Jensen, O. (2021, Nature Communications, 12(1), 1-9)  
@@ -54,8 +54,8 @@ Proposed a new technique, Rapid Invisible Frequency Tagging (RIFT), to measure a
 <br>  
 
 # Attention & Memory & Perception   
-### * Higher baseline alpha power is associated with faster responses in visual search    
-Duecker, K., Shapiro, K. L., Hanslmayr, S., Griffiths, B. J., Quinn, A. J., Wolfe, J. M., Pan, Y., Pastuszak, A., & Jensen, O. (2025, bioRxiv) 
+### * Higher baseline alpha power is associated with faster responses in visual search       
+Duecker, K., Shapiro, K. L., Hanslmayr, S., Griffiths, B. J., Quinn, A. J., Wolfe, J. M., Pan, Y., Pastuszak, A., & Jensen, O. (2025, bioRxiv)    
 📄 [Paper](https://www.biorxiv.org/content/10.1101/2025.08.29.673162v1.abstract)       
 Combined a General Linear Model (GLM) approach with Rapid Invisible Frequency Tagging (RIFT) in a visual search task and found a correlation between alpha activity and task performance (i.e., higher alpha power, faster responses). Further analyses showed no correlation between alpha power and distractor responses, suggesting that increased alpha reflects enhanced top-down control in visual search.       
 ### * Guided visual search is associated with target boosting and distractor suppression in early visual cortex       
@@ -87,7 +87,7 @@ Conducted a literature review on the functional role of neural oscillations in w
 
 ### * A tutorial for measuring attention in active vision using rapid invisible frequency tagging (RIFT)
 Pan, Y. (*)      
-📄 [Paper](in preparation)     |    💻 [Code](https://github.com/yalipan666/Attention_in_Reading)    |    💾 [datasets](https://figshare.com/account/mycontent/projects/149801) 
+📄 [Paper](in preparation)     |    💻 [Code](https://github.com/yalipan666/Attention_in_Reading)    |    💾 [datasets](https://figshare.com/account/mycontent/projects/149801)       
 I am currently developing a Python and MATLAB toolbox for conducting Rapid Invisible Frequency Tagging (RIFT) in experiments with and without eye movements. The toolbox will provide functionalities for:   
 * Stimulus presentation with an ultra-refresh-rate ProPixx projector (1440 Hz) or high-refresh-rate gaming monitor (360 Hz):   
   -- tagging images in a visual search task    
