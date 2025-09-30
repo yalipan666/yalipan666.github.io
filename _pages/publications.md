@@ -30,7 +30,7 @@ Naveed, T., Evans, A., Ferrante, O., & Pan, Y. (*) (2024, under review)
 📄 [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5002588)    |    💻 [Code](https://osf.io/9zcje/files/osfstorage?view_only=)    |    💾 [datasets](https://osf.io/9zcje/files/osfstorage?view_only=)      
 Supervised an undergrad student project. This time, we investigated parafoveal processing from the perspective of emotion. We found an intricate interaction between emotion and word frequency in parafoveal processing, a region where attentional resources are highly limited. This striking result underscores the processing priority of emotional information even when attention is constrained.    
 ### * Fast hierarchical processing of orthographic and semantic parafoveal information during natural reading    
-Wang, L., Frisson, S., Pan, Y. (*), & Jensen, O. (accepted by Nature Communications)   
+Wang, L., Frisson, S., Pan, Y. (*), & Jensen, O. (2025, accepted by Nature Communications)   
 📄 [Paper](https://www.biorxiv.org/content/10.1101/2024.09.27.615440v1.full.pdf)    |    💻 [Code](https://osf.io/rnx89/)    |    💾 [datasets](https://osf.io/rnx89/)       
 Co-supervised PhD project. We applied Representational Similarity Analysis (RSA) to decode word representations at both  orthographic and semantic levels, at different temporal latencies and in different brain regions. Crucially, this decoding was performed for parafoveal words, demonstrating RSA as an additional tool, alongside RIFT, for investigating parafoveal processing during reading.     
 ### * Early parafoveal semantic integration in natural reading   
@@ -55,7 +55,7 @@ Proposed a new technique, Rapid Invisible Frequency Tagging (RIFT), to measure a
 
 # Attention & Memory & Perception   
 ### * Higher baseline alpha power is associated with faster responses in visual search       
-Duecker, K., Shapiro, K. L., Hanslmayr, S., Griffiths, B. J., Quinn, A. J., Wolfe, J. M., Pan, Y., Pastuszak, A., & Jensen, O. (2025, bioRxiv)    
+Duecker, K., Shapiro, K. L., Hanslmayr, S., Griffiths, B. J., Quinn, A. J., Wolfe, J. M., Pan, Y., Pastuszak, A., & Jensen, O. (2025, bioRxiv)        
 📄 [Paper](https://www.biorxiv.org/content/10.1101/2025.08.29.673162v1.abstract)       
 Combined a General Linear Model (GLM) approach with Rapid Invisible Frequency Tagging (RIFT) in a visual search task and found a correlation between alpha activity and task performance (i.e., higher alpha power, faster responses). Further analyses showed no correlation between alpha power and distractor responses, suggesting that increased alpha reflects enhanced top-down control in visual search.       
 ### * Guided visual search is associated with target boosting and distractor suppression in early visual cortex       
