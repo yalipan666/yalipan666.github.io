@@ -36,11 +36,11 @@ Co-supervised PhD project. We applied Representational Similarity Analysis (RSA)
 ### 4. Early parafoveal semantic integration in natural reading   
 Pan, Y. (*), Frisson, S., Federmeier, D. K., Jensen, O. (2024, eLife, 12, RP91327)    
 📄 [Paper](https://elifesciences.org/articles/91327)    |    💻 [Code](https://github.com/yalipan666/Semantic)    |    💾 [datasets](https://figshare.com/account/mycontent/projects/149801)     
-We found that semantic violations occur before direct word fixation using the Rapid Invisible Frequency Tagging (RIFT) method, challenging the classic N400 time window for semantic processing.  
+We found that semantic violations occur before directly fixating the violating word, using the Rapid Invisible Frequency Tagging (RIFT) method, which challenges the classic N400 time window for semantic processing.  
 ### 3.  Saccades are locked to the phase of alpha oscillations during natural reading  
 Pan, Y. (*), Popov, T., Frisson, S., & Jensen, O. (2023, PLoS Biology, 21(1), e3001968)  
 📄 [Paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001968)    |    💻 [Code](https://github.com/yalipan666/Saccade-Alpha-phase)    |    💾 [datasets](https://figshare.com/account/mycontent/projects/117885)      
-Showed that oculomotor activity in reading is not noise but plays a critical role in word processing by phase-locking to endogenous alpha oscillations. This opens new avenues to understand the functional roles of neuronal oscillations in naturalistic scenarios involving eye movements.    
+Showed that oculomotor activity in reading is not noise but plays a critical role in word processing by phase-locking to endogenous alpha oscillations. This opens up new avenues for understanding the functional roles of neuronal oscillations in naturalistic scenarios involving eye movements.    
 ### 2.  An oscillatory pipelining mechanism supporting previewing during visual exploration and reading   
 📄 [Paper](https://www.sciencedirect.com/science/article/pii/S1364661321002254)     
 Jensen, O., Pan, Y., Frisson, S., & Wang, L. (2021, Trends in Cognitive Sciences, 25(12), 1033-1044)   
@@ -53,19 +53,15 @@ Proposed a new technique, Rapid Invisible Frequency Tagging (RIFT), to measure a
 <br>
 <br>  
 
-# Attention & Memory & Perception 
-### 2. Lexical Wm Eye Movements     
-Prigorkina, V., Sheridan, H., Frisson, S., & Pan, Y. (2025, September 9, under review)      
-📄 [Paper]()       
-Supervised    
-### 2. Lexical Wm Eye Movements     
-Prigorkina, V., Sheridan, H., Frisson, S., & Pan, Y. (2025, September 9, under review)      
-📄 [Paper]()       
-Supervised    
-### 2. Lexical Wm Eye Movements     
-Prigorkina, V., Sheridan, H., Frisson, S., & Pan, Y. (2025, September 9, under review)      
-📄 [Paper]()       
-Supervised    
+# Attention & Memory & Perception   
+### 6. Higher baseline alpha power is associated with faster responses in visual search    
+Duecker, K., Shapiro, K. L., Hanslmayr, S., Griffiths, B. J., Quinn, A. J., Wolfe, J. M., Pan, Y., Pastuszak, A., & Jensen, O. (2025, bioRxiv) 
+📄 [Paper](https://www.biorxiv.org/content/10.1101/2025.08.29.673162v1.abstract)       
+Combined a General Linear Model (GLM) approach with Rapid Invisible Frequency Tagging (RIFT) in a visual search task and found a correlation between alpha activity and task performance (i.e., higher alpha power, faster responses). Further analyses showed no correlation between alpha power and distractor responses, suggesting that increased alpha reflects enhanced top-down control in visual search.       
+### 5. Guided visual search is associated with target boosting and distractor suppression in early visual cortex       
+Duecker, K., Shapiro, K. L., Hanslmayr, S., Griffiths, B. J., Pan, Y., Wolfe, J. M., & Jensen, O. (2025, Communications Biology 8 (1), 912)      
+📄 [Paper](https://www.nature.com/articles/s42003-025-08321-3)    |    💻 [Code](https://github.com/katduecker/visual_search_rift)    |    💾 [datasets](https://www.nature.com/articles/s42003-025-08321-3#Sec27)     
+Applied rapid invisible frequency tagging (RIFT) in a visual search paradigm and found evidence for both target enhancement and distractor suppression during guided vs. unguided search. The results show that feature-guidance modulates neuronal excitability as early as the primary visual cortex, supporting a priority-map-based mechanism of attention.     
 ### 4. Anterior thalamic stimulation improves working memory precision judgments
 Liu, J., Yu, T., Wu, J., Pan, Y., Tan, Z., Liu, R., Wang, X., Ren, L., & Wang, L. (2021, Brain stimulation 14 (5), 1073-1080)      
 📄 [Paper](https://www.sciencedirect.com/science/article/pii/S1935861X21001443)       
@@ -88,10 +84,22 @@ Conducted a literature review on the functional role of neural oscillations in w
 <br> 
 
 # Software/package development   
-### 2. Lexical Wm Eye Movements     
-Prigorkina, V., Sheridan, H., Frisson, S., & Pan, Y. (2025, September 9, under review)      
-📄 [Paper]()       
-Supervised      
+### 2. A tutorial for measuring attention in active vision using rapid invisible frequency tagging (RIFT)
+Pan, Y. (*)      
+📄 [Paper](in preparation)     |    💻 [Code](https://github.com/yalipan666/Attention_in_Reading)    |    💾 [datasets](https://figshare.com/account/mycontent/projects/149801) 
+I am currently developing a Python and MATLAB toolbox for conducting Rapid Invisible Frequency Tagging (RIFT) in experiments with and without eye movements. The toolbox will provide functionalities for:   
+* Stimulus presentation with an ultra-refresh-rate ProPixx projector (1440 Hz) or high-refresh-rate gaming monitor (360 Hz):   
+*  -- tagging images in a visual search task    
+*  -- tagging text in a reading task    
+*  -- tagging the visual and auditory streams in a video-watching task   
+* Data analysis pipeline:   
+*  -- co-registration of eye movements and brain signals (EEG & MEG)   
+*  -- extensive removal of oculomotor-related artefacts   
+*  -- computation of RIFT responses at single-participant, group, and even single-trial levels   
+*  -- parametric and non-parametric statistical comparisons between conditions   
+*  -- source localisation analyses     
+*  Results visualisation   
+As RIFT is gaining growing attention across diverse fields, this toolbox and the accompanying methods paper aim to provide a comprehensive resource that explains the underlying rationale, standardises parameter selection, and unifies analysis pipelines.    
 ### 1. Automatic and precise localization and cortical labeling of subdural and depth intracranial electrodes    
 Qin, C., Tan, Z., Pan, Y., Li, Y., Wang, L., Ren, L., Zhou, W., & Wang, L. (2017, Frontiers in neuroinformatics, 11, 10).      
 📄 [Paper](https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2017.00010/full)     |    💻 [Code](https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2017.00010/full)   
