@@ -10,7 +10,7 @@ redirect_from:
 
 # **Welcome to my website!**   
 
-I am a researcher with a background in cognitive neuroscience and psychology, with particular expertise in human electrophysiology and machine learning techniques.   
+<span style="font-size:0.9em;">I am a researcher with a background in cognitive neuroscience and psychology, with particular expertise in human electrophysiology and machine learning techniques.   
 
 I received my PhD in 2018 from the Institute of Psychology, Chinese Academy of Sciences, where I worked with <a href="https://psych.cas.cn/sourcedb/cn/expert/201302/t20130206_6369838.html">Prof. Liang Wang</a> to investigate the role of neuronal oscillations in visual working memory using intracranial EEG (iEEG). This research sparked my fascination with understanding the complexities of the human mind through the use of electrophysiology.     
 
@@ -18,7 +18,7 @@ Following my PhD, I joined <a href="https://www.neuosc.com/">Prof. Ole Jensen's 
 
 Currently, I serve as a Research Fellow at the University of Birmingham and a Visiting Scholar at the University of Oxford. My current research explores children's reading development using cutting-edge OPM-MEG technology. Furthermore, I am curious to explore whether knowledge about the human brain can help build smarter AI models. My work is supported by funding from <a href="https://www.leverhulme.ac.uk/">the Leverhulme Trust</a> and <a href="https://royalsociety.org/">the Royal Society</a> in the UK.   
 
-When I'm not in the lab, I enjoy crocheting, jogging, reading, and the art of doing absolutely nothing!
+When I'm not in the lab, I enjoy crocheting, jogging, reading, and the art of doing absolutely nothing!</span>
 
 # **Contact me**   
 📧 Email: yalipan666@gmail.com       
