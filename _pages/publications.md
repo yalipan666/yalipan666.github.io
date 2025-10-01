@@ -85,15 +85,15 @@ Xu, H., Qin, C., Bai, Y., Tan, Z., **Pan, Y.**, Li, Y., Zhou, W., Zhang, T., & W
 📄 [Paper](in preparation)     |    💻 [Code](https://github.com/yalipan666/Attention_in_Reading)    |    💾 [datasets](https://figshare.com/account/mycontent/projects/149801)       
 <span style="font-size:0.9em;"> I am currently developing a Python and MATLAB toolbox for conducting Rapid Invisible Frequency Tagging (RIFT) in experiments with and without eye movements. The toolbox will provide functionalities for:</span>   
 <span style="font-size:0.9em;">* Stimulus presentation with an ultra-refresh-rate ProPixx projector (1440 Hz) or high-refresh-rate gaming monitor (360 Hz):   
-  -- tagging images in a visual search task    
-  -- tagging text in a reading task    
-  -- tagging the visual and auditory streams in a video-watching task</span>   
+  &ensp;-- tagging images in a visual search task    
+  &ensp;-- tagging text in a reading task    
+  &ensp;-- tagging the visual and auditory streams in a video-watching task</span>   
 <span style="font-size:0.9em;">* Data analysis pipeline:   
-  -- co-registration of eye movements and brain signals (EEG & MEG)   
-  -- extensive removal of oculomotor-related artefacts   
-  -- computation of RIFT responses at single-participant, group, and even single-trial levels   
-  -- parametric and non-parametric statistical comparisons between conditions   
-  -- source localisation analyses</span>     
+  &ensp;-- co-registration of eye movements and brain signals (EEG & MEG)   
+  &ensp;-- extensive removal of oculomotor-related artefacts   
+  &ensp;-- computation of RIFT responses at single-participant, group, and even single-trial levels   
+  &ensp;-- parametric and non-parametric statistical comparisons between conditions   
+  &ensp;-- source localisation analyses</span>     
 <span style="font-size:0.9em;">*  Results visualisation</span>   
 
 <span style="font-size:0.9em;">As RIFT is gaining growing attention across diverse fields, this toolbox and the accompanying methods paper aim to provide a comprehensive resource that explains the underlying rationale, standardises parameter selection, and unifies analysis pipelines.</span>
