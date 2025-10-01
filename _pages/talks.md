@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 # Talks at conferences & universities       
-##### _* denotes invited talks_  
+#### _* denotes invited talks_  
 ### International Conference of Cognitive Neuroscience (ICON)   
 <span style="font-size:0.9em;">📅 2025.09  |  🌍 Porto, Portugal</span>    
 ### Psycholinguistics Forum, Chinese University of Hong Kong    
