@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -20,3 +20,6 @@ Currently, I serve as a Research Fellow at the University of Birmingham and a Vi
 
 When I'm not in the lab, I enjoy crocheting, jogging, reading, and the art of doing absolutely nothing!
 
+**Contact me**   
+📧 Email: yalipan666@gmail.com 
+ 📍 Office: Room 118, the Centre for Human Brain Health, Birmingham, B15 2SA.
