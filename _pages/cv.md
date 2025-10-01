@@ -41,19 +41,22 @@ Grants & Awards
 
 Skills
 ======
-* **Advanced analytical expertise in neuroimaging data**
-  * MEG, scalp and intracranial EEG
-    * time-series analysis (power spectrum, time frequency representations, cross-frequency coupling, Granger causality)
-* **Strong programming skills**
-  * Python, R, MATLAB
-* **Expertise in designing and conducting experiments**
-  * eye-tracking and behavioural methods
-* **Proficiency in stimulus presentation for psychology studies**
+* Advanced analytical expertise in neuroimaging data
+  * Time-series analysis of MEG, scalp and intracranial EEG
+  * Power spectrum, phase extraction
+  * Cross-frequency coupling, Granger causality
+* In-depth knowledge of machine learning techniques
+  * Natural language processing, large language models (transformers)
+  * Neural networks (CNN, RNN)
+  * Support vector machine (SVM), K-means clustering, random forests
+* Strong programming skills**
+  * Python, R, MATLAB, SQL, Git, Docker
+* Expertise in designing and conducting experiments
+  * Eye-tracking and behavioural methods (A/B tests)
+* Proficiency in stimulus presentation for psychology studies
   * Psychtoolbox and PsychoPy
-* **In-depth knowledge of machine learning techniques**
-  * SVM, k-means clustering, DNN, CNN, NLP
-* **Extensive experience with statistical analysis**
-  * parametric test (t-test, ANOVA)
-  * non-parametric test (cluster-based permutation)
-  * linear mixed-effects modelling
-  * multivariate pattern analysis (RSA decoding)
+* Extensive experience with statistical analysis
+  * Parametric test (t-test, ANOVA)
+  * Non-parametric test (cluster-based permutation)
+  * Linear mixed-effects modelling
+  * Multivariate pattern analysis (RSA decoding)
