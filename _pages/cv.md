@@ -13,8 +13,10 @@ For a detailed CV, please see [here](/files/cv.pdf){:target="_blank"}.
 
 Education
 ======
-* Ph.D in Cognitive Neuroscience, Institute of Psychology, Chinese Academy of Sciences, 2018
-* B.Ed. in Applied Psychology, China Women’s University, 2013
+* Ph.D in Cognitive Neuroscience   
+  &nbsp;Institute of Psychology, Chinese Academy of Sciences, 2018
+* B.Ed. in Applied Psychology   
+  &nbsp;China Women’s University, 2013
 
 Work experience
 ======
@@ -32,12 +34,12 @@ Work experience
 
 Grants & Awards
 ======
-* 2024 Leverhulme Trust Early Career Fellowship, UK (PI: £248,000)
-* 2024 Royal Society International Exchanges Cost Share Programme (NSFC), UK (PI: £12,000)
-* 2022 Winner of the Pump Prime funds at the University of Birmingham, UK (£500)
-* 2021 Best Postdoc Paper at Centre of Human Brain Health, University of Birmingham, UK (£100)
-* 2017 Mingde scholarship, Chinese Academy of Sciences, China (≈ £300)
-* 2013 – 2017 Scholarship for graduates, Chinese Academy of Sciences, China (≈ £300 per year)
+#### * 2024 Leverhulme Trust Early Career Fellowship, UK (PI: £248,000)
+#### * 2024 Royal Society International Exchanges Cost Share Programme (NSFC), UK (PI: £12,000)
+#### * 2022 Winner of the Pump Prime funds at the University of Birmingham, UK (£500)
+#### * 2021 Best Postdoc Paper at Centre of Human Brain Health, University of Birmingham, UK (£100)
+#### * 2017 Mingde scholarship, Chinese Academy of Sciences, China (≈ £300)
+#### * 2013 – 2017 Scholarship for graduates, Chinese Academy of Sciences, China (≈ £300 per year)
 
 Skills
 ======
