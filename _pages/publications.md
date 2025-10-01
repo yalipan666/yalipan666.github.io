@@ -8,10 +8,9 @@ author_profile: true
 {% include base_path %}
 
 
-### You can also find my papers on [my Google Scholar profile](https://scholar.google.com/citations?user=UAtOWA4AAAAJ&hl=en)  
-
-### (Disclaimer: The papers available on this website are provided for personal and educational use only. Any reproduction, distribution, or use of these materials for other purposes is strictly prohibited.)  
-### (*) denotes corresponding/sensor authorship  
+You can also find my papers on [my Google Scholar profile](https://scholar.google.com/citations?user=UAtOWA4AAAAJ&hl=en)  
+<span style="font-size:0.9em;">(Disclaimer: The papers available on this website are provided for personal and educational use only. Any reproduction, distribution, or use of these materials for other purposes is strictly prohibited.)</span>  
+<span style="font-size:0.9em;">(*) denotes corresponding/sensor authorship</span>  
 <br>
 
 # Natural Reading  
