@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Welcome to my website!**   
+# **Welcome to my website!**   
 
 I am a researcher with a background in cognitive neuroscience and psychology, with particular expertise in human electrophysiology and machine learning techniques.   
 
@@ -20,6 +20,6 @@ Currently, I serve as a Research Fellow at the University of Birmingham and a Vi
 
 When I'm not in the lab, I enjoy crocheting, jogging, reading, and the art of doing absolutely nothing!
 
-**Contact me**   
+# **Contact me**   
 📧 Email: yalipan666@gmail.com       
  📍   Office: Room 118, the Centre for Human Brain Health, Birmingham, B15 2SA.
