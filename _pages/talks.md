@@ -8,13 +8,13 @@ author_profile: true
 {% include base_path %}
 
 # Talks at conferences & universities       
-_* denotes invited talks_  
+##### _* denotes invited talks_  
 ### International Conference of Cognitive Neuroscience (ICON)   
-<span style="font-size:0.9em;line-height:0.5;">📅 2025.09  |  🌍 Porto, Portugal</span>    
+<span style="font-size:0.9em;">📅 2025.09  |  🌍 Porto, Portugal</span>    
 ### Psycholinguistics Forum, Chinese University of Hong Kong    
-<span style="font-size:0.9em;line-height:0.5;">📅 2025.03  |  🌍 Oneline</span>    
+<span style="font-size:0.9em;">📅 2025.03  |  🌍 Oneline</span>    
 ### Youth Talent Forum, School of Psychology, Zhejiang University     
-<span style="font-size:0.9em;line-height:0.5;">📅 2025.02  |  🌍 Zhejiang, China</span>    
+<span style="font-size:0.9em;">📅 2025.02  |  🌍 Zhejiang, China</span>    
 ### Annual meeting of the Psychonomic Society  
 <span style="font-size:0.9em;">📅 2024.11  |  🌍 New York, US</span>     
 ### International Conference on Biomagnetism (BIOMAG)     		
@@ -45,8 +45,6 @@ _* denotes invited talks_
 <span style="font-size:0.9em;">📅 2021.03  |  🌍 Online</span>    
 <br>
 <br>
-<br>
-
 # Chaired Symposium  
 ### "Attention in Reading" workshop, sponsored by the Royal Society      
 <span style="font-size:0.9em;">📅 2025.01  |  🌍 Birmingham, UK</span>      
@@ -58,8 +56,6 @@ _* denotes invited talks_
 <span style="font-size:0.9em;">📅 2022.04  |  🌍 San Francisco, US</span>    
 <br>
 <br>
-<br>
-
 # Public Engagement   
 ### Brain Awareness Week 2023, Explaining the brain to the public    
 <span style="font-size:0.9em;">📅 2023.05  |  🌍 Birmingham, UK</span>    
