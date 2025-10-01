@@ -22,4 +22,4 @@ When I'm not in the lab, I enjoy crocheting, jogging, reading, and the art of do
 
 **Contact me**   
 📧 Email: yalipan666@gmail.com       
- 📍 Office: Room 118, the Centre for Human Brain Health, Birmingham, B15 2SA.
+ 📍   Office: Room 118, the Centre for Human Brain Health, Birmingham, B15 2SA.
