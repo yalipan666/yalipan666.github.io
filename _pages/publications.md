@@ -10,15 +10,15 @@ author_profile: true
 
 ### You can also find my papers on [my Google Scholar profile](https://scholar.google.com/citations?user=UAtOWA4AAAAJ&hl=en)  
 
-#### (Disclaimer: The papers available on this website are provided for personal and educational use only. Any reproduction, distribution, or use of these materials for other purposes is strictly prohibited.)  
-#### (*) denotes corresponding/sensor authorship  
+### (Disclaimer: The papers available on this website are provided for personal and educational use only. Any reproduction, distribution, or use of these materials for other purposes is strictly prohibited.)  
+### (*) denotes corresponding/sensor authorship  
 <br>
 
 # Natural Reading  
 ### Lexical Word Processing is Unaffected by Rapid Invisible Frequency Tagging in Reading: Evidence from Eye Movements  
-Prigorkina, V., Sheridan, H., Frisson, S., & **Pan, Y. (*)** (2025, September 9, under review)   
+<span style="font-size:0.9em;">Prigorkina, V., Sheridan, H., Frisson, S., & **Pan, Y. (*)** (2025, September 9, under review)   
 📄 [Paper](https://osf.io/preprints/psyarxiv/jbsdk_v1)    |    💻 [Code](https://osf.io/bk52w/)    |    💾 [datasets](https://osf.io/bk52w/)       
-<span style="font-size:0.9em;"> **Supervised a master's student project.** Here, we tried to address a fundamental question about the validity of RIFT: does high-frequency flicker alter eye movement patterns during reading? By analysing both the amplitude and latency of the classic word frequency effect, we found the answer to be no. Through careful experimental design and thorough data analysis, this study provides strong evidence for the validity of RIFT. RIFT opens up new possibilities for measuring attention in active vision, remaining imperceptible to participants and causing no interference with ongoing processing.</span>     
+**Supervised a master's student project.** Here, we tried to address a fundamental question about the validity of RIFT: does high-frequency flicker alter eye movement patterns during reading? By analysing both the amplitude and latency of the classic word frequency effect, we found the answer to be no. Through careful experimental design and thorough data analysis, this study provides strong evidence for the validity of RIFT. RIFT opens up new possibilities for measuring attention in active vision, remaining imperceptible to participants and causing no interference with ongoing processing.</span>     
 ### Parallel and dynamic attention allocation during natural reading   
 **Pan, Y. (*)**, Frisson, S., Snell, J., Federmeier, K. D., & Jensen, O. (2025, bioRxiv, under review)  
 📄 [Paper](https://www.biorxiv.org/content/10.1101/2025.05.27.656336v1.full.pdf)    |    💻 [Code](https://github.com/yalipan666/Attention_in_Reading)    |    💾 [datasets](https://figshare.com/account/mycontent/projects/250316)       
