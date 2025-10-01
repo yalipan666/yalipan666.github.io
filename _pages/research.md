@@ -56,7 +56,7 @@ author_profile: true
 <div class="research-section">
     <img src="/images/research1.jpg" alt="Research Project 1">
     <div class="text">
-        <h2>Measuring attention in "the wild"</h2>
+        <h3>Measuring attention in "the wild"</h3>
         <span style="font-size:0.9em;">Traditional attention studies restricted eye movements, treating them as artefacts, yet growing evidence shows they carry cognitive significance. The challenge then becomes: how can we measure attention in the presence of natural eye movements?    
 Rapid Invisible Frequency Tagging (RIFT) uses high-frequency flicker (≥60 Hz) that is imperceptible to participants yet evokes rhythmic activity in the visual cortex. By “tagging” specific items, RIFT allows us to track attention to multiple items simultaneously, including both foveal and parafoveal regions (i.e., even before fixating on this item). This capability opens the door to studying attention in naturalistic, ecologically valid contexts, where eye movements are not treated as noise but as an integral part of cognitive processing.</span>
     </div>
