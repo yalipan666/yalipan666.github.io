@@ -98,7 +98,7 @@ I am currently developing a Python and MATLAB toolbox for conducting Rapid Invis
 
 <span style="font-size:0.9em;">As RIFT is gaining growing attention across diverse fields, this toolbox and the accompanying methods paper aim to provide a comprehensive resource that explains the underlying rationale, standardises parameter selection, and unifies analysis pipelines.</span>
 
-### * Automatic and precise localization and cortical labeling of subdural and depth intracranial electrodes    
+### Automatic and precise localization and cortical labeling of subdural and depth intracranial electrodes    
 <span style="font-size:0.9em;">Qin, C., Tan, Z., **Pan, Y.**, Li, Y., Wang, L., Ren, L., Zhou, W., & Wang, L. (2017, **Frontiers in neuroinformatics**, 11, 10)</span>        
 📄 [Paper](https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2017.00010/full)     |    💻 [Code](https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2017.00010/full)   
 Developed a toolbox to automatically and precisely extract, localise, and visualise intracranial electrodes in patients with intractable epilepsy using pre-operative MRI and post-operative CT. The toolbox further allows electrode labelling according to multiple brain atlases. It is among the first tools to standardise the localisation and labelling of intracranial EEG electrodes, thereby facilitating automation and improving consistency in intracranial EEG research.</span>     
