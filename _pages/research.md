@@ -40,10 +40,14 @@ author_profile: true
     line-height: 1.15;  /* Space between lines */
 }
    
-
+/* Reverse layout for alternating sections */
+.research-section.reverse {
+    flex-direction: row-reverse;
+}
+    
 /* Mobile responsive */
 @media (max-width: 768px) {
-    .research-section {
+    .research-section, .research-section.reverse  {
         flex-direction: column;
     }
     
@@ -61,7 +65,7 @@ author_profile: true
 }
 </style>
 
-<!-- Section 1 -->
+<!-- Section 1: Image on Left -->
 <div class="research-section">
     <img src="/images/research1.jpg" alt="Research Project 1">
     <div class="text">
@@ -70,8 +74,8 @@ author_profile: true
     </div>
 </div>
 
-<!-- Section 2 -->
-<div class="research-section">
+<!-- Section 2: Image on the Right -->
+<div class="research-section reverse">
     <img src="/images/research2.jpg" alt="Research Project 2">
     <div class="text">
         <h3>"Looking Ahead" in Reading</h3>
@@ -88,8 +92,8 @@ author_profile: true
     </div>
 </div>
 
-<!-- Section 4 -->
-<div class="research-section">
+<!-- Section 4: Image on Right -->
+<div class="research-section reverse">
     <img src="/images/research4.jpg" alt="Research Project 4">
     <div class="text">
         <h3>"Reading" the Mind</h3>
