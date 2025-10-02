@@ -26,9 +26,6 @@ redirect_from:
 
 <br>
 <br>
-<br>
-<br>
-<br>
 
 <span style="font-size:0.9em;">Yali Pan&emsp;&emsp;|&emsp;&emsp;Last updated: October 2025</span>
 
