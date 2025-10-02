@@ -12,7 +12,7 @@ author_profile: true
     gap: 30px;
     margin-bottom: 50px;
     padding: 20px;
-    background: #f8f9fa;
+    background: var(--background-color, #f8f9fa);
     border-radius: 10px;
 }
 
@@ -26,12 +26,21 @@ author_profile: true
 
 .research-section .text {
     flex: 1;
+    color: var(--text-color, #333);
 }
 
 .research-section h3 {
     margin-top: 0;
-    color: #2c3e50;
+    color: var(--text-color, #2c3e50);
     margin-bottom: 15px;
+}
+    
+.research-section p {
+    color: var(--text-color, #333);
+}
+
+.research-section a {
+    color: var(--link-color, #3498db);
 }
 
 /* Reverse layout for alternating sections */
@@ -50,6 +59,44 @@ author_profile: true
         height: auto;
     }
 }
+    
+/* Dark mode specific styles */
+@media (prefers-color-scheme: dark) {
+    .research-section {
+        background: rgba(255, 255, 255, 0.05);
+    }
+    
+    .research-section .text,
+    .research-section h3,
+    .research-section p {
+        color: #e0e0e0;
+    }
+    
+    .research-section a {
+        color: #64b5f6;
+    }
+}
+
+/* If your theme uses a dark mode class instead */
+.dark-mode .research-section,
+body.dark .research-section {
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.dark-mode .research-section .text,
+.dark-mode .research-section h3,
+.dark-mode .research-section p,
+body.dark .research-section .text,
+body.dark .research-section h3,
+body.dark .research-section p {
+    color: #e0e0e0;
+}
+
+.dark-mode .research-section a,
+body.dark .research-section a {
+    color: #64b5f6;
+}
+    
 </style>
 
 <!-- Section 1: Image on Left -->
