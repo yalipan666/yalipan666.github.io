@@ -38,7 +38,7 @@ author_profile: true
     
 .research-section p {
     font-size: 0.9em;  /* 90% of default size */
-    line-height: 1.15;  /* Space between lines */
+    line-height: 1.3;  /* Space between lines */
 }
    
 /* Reverse layout for alternating sections */
