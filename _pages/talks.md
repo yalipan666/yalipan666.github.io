@@ -10,19 +10,19 @@ author_profile: true
 # Talks at conferences & universities       
 ### _* denotes invited talks_  
 <span style="font-size:1em;line-height: 1.15;"> * International Conference of Cognitive Neuroscience (ICON)     
-📅 2025.09  |  🌍 Porto, Portugal</span>    
+&emsp;📅 2025.09  |  🌍 Porto, Portugal</span>    
 <span style="font-size:1em;line-height: 1.15;"> * Psycholinguistics Forum, Chinese University of Hong Kong      
-📅 2025.03  |  🌍 Online</span>       
+&emsp;📅 2025.03  |  🌍 Online</span>       
 <span style="font-size:1em;line-height: 1.15;"> * Youth Talent Forum, School of Psychology, Zhejiang University     
-📅 2025.02  |  🌍 Zhejiang, China</span>      
+&emsp;📅 2025.02  |  🌍 Zhejiang, China</span>      
 <span style="font-size:1em;line-height: 1.15;"> Annual meeting of the Psychonomic Society     
-📅 2024.11  |  🌍 New York, US</span>     
+&emsp;📅 2024.11  |  🌍 New York, US</span>     
 <span style="font-size:1em;line-height: 1.15;"> International Conference on Biomagnetism (BIOMAG)     
-📅 2024.08  |  🌍 Sydney, Australia</span>    
+&emsp;📅 2024.08  |  🌍 Sydney, Australia</span>    
 <span style="font-size:1em;line-height: 1.15;"> * Talk Series, Tianjin Normal University    
-📅 2024.08  |  🌍 Tianjin, China</span>    
+&emsp;📅 2024.08  |  🌍 Tianjin, China</span>    
 <span style="font-size:1em;line-height: 1.15;"> * MEG UKI conference    
-📅 2023.10  |  🌍 Dublin, Ireland</span>    
+&emsp;📅 2023.10  |  🌍 Dublin, Ireland</span>    
 <span style="font-size:1em;line-height: 1.15;"> * Annual Meeting of the Society for Psychophysiological Research (SPR)    
 📅 2023.09  |  🌍 New Orleans, US</span>    
 <span style="font-size:1em;line-height: 1.15;"> * Annual Meeting of European Society for Cognitive Psychology (ESCoP)    
@@ -49,7 +49,7 @@ author_profile: true
 # Chaired Symposium  
 <span style="font-size:1em;line-height: 1.15;"> "Attention in Reading" workshop, sponsored by the Royal Society    
 📅 2025.01  |  🌍 Birmingham, UK</span>      
-<span style="font-size:1em;line-height: 1.15;"> MEG UKI conference 
+<span style="font-size:1em;line-height: 1.15;"> MEG UKI conference    
 📅 2024.10  |  🌍 Birmingham, UK</span>    
 <span style="font-size:1em;line-height: 1.15;"> International Conference of Cognitive Neuroscience (ICON)    
 📅 2022.05  |  🌍 Helsinki, Finland</span>    
