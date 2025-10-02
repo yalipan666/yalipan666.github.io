@@ -52,7 +52,7 @@ author_profile: true
     }
     
     .research-section img {
-        width: 100%;
+        width: 85%;
         height: auto;
     }
       .research-section h3 {
