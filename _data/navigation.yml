@@ -21,7 +21,10 @@ main:
     url: /talks/
     
   - title: "Teaching & Supervision"
-    url: /teaching/    
+    url: /teaching/  
+    
+  - title: "Data Science & AI"
+    url: /data science & AI/    
   
   - title: "News"
     url: /news/
