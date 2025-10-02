@@ -67,7 +67,7 @@ author_profile: true
 
 <!-- Section 1: Image on Left -->
 <div class="research-section">
-    <img src="/images/research1.jpg" alt="Research Project 1">
+    <img src="/images/wild.jpg" alt="Research Project 1">
     <div class="text">
         <h3>Measuring Attention in "the Wild"</h3>
         <p>Traditional attention studies restricted eye movements, treating them as artefacts, yet growing evidence shows they carry cognitive significance. The challenge then becomes: how can we measure attention in the presence of natural eye movement? Rapid Invisible Frequency Tagging (RIFT) uses high-frequency flicker (≥60 Hz) that is imperceptible to participants yet evokes rhythmic activity in the visual cortex. By “tagging” specific items, RIFT allows us to track attention to multiple items simultaneously, including both foveal and parafoveal regions (i.e., even before fixating on the item). This capability opens the door to studying attention in "the wild", i.e., more naturalistic and ecological contexts, where eye movements are not treated as noise but as an integral part of cognitive processing.</p>
@@ -76,7 +76,7 @@ author_profile: true
 
 <!-- Section 2: Image on the Right -->
 <div class="research-section reverse">
-    <img src="/images/research2.jpg" alt="Research Project 2">
+    <img src="/images/reading.jpg" alt="Research Project 2">
     <div class="text">
         <h3>"Looking Ahead" in Reading</h3>
         <p>Skilled readers can extract information from a word even before directly fixating on it, but how much can actually be gathered from the parafoveal region? To address this, we co-registered eye tracking with MEG (and OPM-MEG for studying reading development in children) and applied a range of methods, including eye movement measures, event-related potentials (ERPs), rapid invisible frequency tagging (RIFT), and multivariate analyses. We provide robust neural evidence that substantial information (including the meaning of a word) can be pre-processed before fixation, a result not always reflected in eye movement data, underscoring the importance of integrating neural evidence when building theories of reading.</p>
@@ -85,7 +85,7 @@ author_profile: true
 
 <!-- Section 3 -->
 <div class="research-section">
-    <img src="/images/research3.jpg" alt="Research Project 3">
+    <img src="/images/alignment.jpg" alt="Research Project 3">
     <div class="text">
         <h3>"Anchoring" Transformers with Human Attention</h3>
         <p>The landmark paper “Attention is All You Need” established attention as the core mechanism of transformer-based large language models (LLMs). Yet, the notion of “attention” in LLMs differs fundamentally from human cognition. When humans process written language, eye movements serve as a precise and well-studied marker of where human attention is allocated in real-time. In this research direction, we aim to incorporate human eye movement data, i.e.,knowledge-grounded attention, into the attention matrices of LLMs, with the goal of improving performance on tasks that demand deeper language understanding, such as reasoning. If successful, we will further examine why this improvement occurs, for instance, whether the activation patterns of LLMs become more aligned with those observed in the human brain.</p>
@@ -94,7 +94,7 @@ author_profile: true
 
 <!-- Section 4: Image on Right -->
 <div class="research-section reverse">
-    <img src="/images/research4.jpg" alt="Research Project 4">
+    <img src="/images/mindreading.jpg" alt="Research Project 4">
     <div class="text">
         <h3>"Reading" the Mind</h3>
         <p> Mind-reading has long been a theme in science fiction, but advances in neuroimaging and data analysis are bringing it closer to reality. Using representational similarity analysis (RSA), we have decoded word information during sentence reading, and with support vector machines (SVM), during speech listening. These approaches provide powerful tools to probe how the brain encodes and processes information. Looking ahead, we aim to explore how word meaning is represented in both the brain and large language models (LLMs). For example, whether analogies such as north and south are represented as close (because they both describe directions) or far apart (because they are opposites) in their respective semantic spaces.</p>
