@@ -20,7 +20,8 @@ author_profile: true
 .research-section img {
     width: 300px;
     height: 300px;
-    object-fit: cover;
+    object-fit: contain;
+    object-position: center;
     border-radius: 10px;
     flex-shrink: 0;
 }
@@ -52,7 +53,7 @@ author_profile: true
     }
     
     .research-section img {
-        width: 85%;
+        width: 100%;
         height: auto;
     }
       .research-section h3 {
