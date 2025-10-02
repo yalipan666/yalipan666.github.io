@@ -9,13 +9,13 @@ author_profile: true
 
 # Talks at conferences & universities       
 ### _* denotes invited talks_  
-<span style="font-size:1em;line-height: 1.15;"> * International Conference of Cognitive Neuroscience (ICON)     
+<span style="font-size:1em;line-height: 1.15;"> * International Conference of Cognitive Neuroscience (ICON)</span>     
 <span style="font-size:0.8em;>&ensp;📅 2025.09  |  🌍 Porto, Portugal</span>    
-<span style="font-size:1em;line-height: 1.15;"> * Psycholinguistics Forum, Chinese University of Hong Kong      
+<span style="font-size:1em;line-height: 1.15;"> * Psycholinguistics Forum, Chinese University of Hong Kong</span>      
 <span style="font-size:0.8em;>&ensp;📅 2025.03  |  🌍 Online</span>       
-<span style="font-size:1em;line-height: 1.15;"> * Youth Talent Forum, School of Psychology, Zhejiang University     
+<span style="font-size:1em;line-height: 1.15;"> * Youth Talent Forum, School of Psychology, Zhejiang University</span>     
 <span style="font-size:0.8em;>&ensp;📅 2025.02  |  🌍 Zhejiang, China</span>      
-<span style="font-size:1em;line-height: 1.15;"> Annual meeting of the Psychonomic Society     
+<span style="font-size:1em;line-height: 1.15;"> Annual meeting of the Psychonomic Society</span>     
 <span style="font-size:0.8em;>&ensp;📅 2024.11  |  🌍 New York, US</span>     
 <span style="font-size:1em;line-height: 1.15;"> International Conference on Biomagnetism (BIOMAG)     
 &ensp;📅 2024.08  |  🌍 Sydney, Australia</span>    
