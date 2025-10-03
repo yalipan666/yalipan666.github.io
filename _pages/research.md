@@ -36,9 +36,10 @@ author_profile: true
     font-size: 22px;  /* Heading size */
 }
     
-.research-section p {
-    font-size: 0.9em;  /* 90% of default size */
-    line-height: 1.5;  /* Space between lines */
+.research-section .text p {
+    font-size: 0.9em;
+    line-height: 1.5 !important;  /* Increased and forced */
+    margin-bottom: 15px;  /* Also adds space between paragraphs */
 }
    
 /* Reverse layout for alternating sections */
