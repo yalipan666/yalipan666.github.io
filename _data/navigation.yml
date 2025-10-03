@@ -23,8 +23,8 @@ main:
   - title: "Teaching & Supervision"
     url: /teaching/  
     
-  - title: "Data Science & AI"
-    url: /data science & AI/    
+#  - title: "Data Science & AI"
+#    url: /data science & AI/    
   
   - title: "News"
     url: /news/
