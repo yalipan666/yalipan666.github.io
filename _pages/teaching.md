@@ -18,7 +18,7 @@ author_profile: true
 <span style="font-size:0.9em;"> 👥 Master & undergraduate  |  📅 2024.10  |  🏛️ University of Birmingham, UK</span>
 <br>
 ### Workshop on intracranial EEG (iEEG) data acquisition and analysis 
-<span style="font-size:0.9em;"> 👥 Master & PhD  |  📅 2027.07  |  🏛️ Institute of Psychology, Chinese Academy of Sciences, China</span>
+<span style="font-size:0.9em;"> 👥 Master & PhD  |  📅 2017.07  |  🏛️ Institute of Psychology, Chinese Academy of Sciences, China</span>
 <br>
 <br>
 <br>
