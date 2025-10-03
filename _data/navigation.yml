@@ -26,8 +26,8 @@ main:
 #  - title: "Data Science & AI"
 #    url: /data science & AI/    
   
-  - title: "News"
-    url: /news/
+#  - title: "News"
+#    url: /news/
     
   - title: "CV"
     url: /cv/
