@@ -29,7 +29,7 @@ Using RIFT, we tagged two adjacent words with two different frequencies and obse
 📄 [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5002588)    |    💻 [Code](https://osf.io/9zcje/files/osfstorage?view_only=)    |    💾 [datasets](https://osf.io/9zcje/files/osfstorage?view_only=)      
 **Supervised an undergraduate student project.** This time, we investigated parafoveal processing from the perspective of emotion. We found an intricate interaction between emotion and word frequency in parafoveal processing, a region where attentional resources are highly limited. This striking result underscores the processing priority of emotional information even when attention is constrained.</span>    
 ### Fast hierarchical processing of orthographic and semantic parafoveal information during natural reading    
-<span style="font-size:0.9em;">Wang, L., Frisson, S., **Pan, Y. (*)**, & Jensen, O. (2025, accepted by **Nature Communications**)     
+<span style="font-size:0.9em;">Wang, L., Frisson, S., **Pan, Y. (*)**, & Jensen, O. (2025, **Nature Communications**, 16(1), 8893)     
 📄 [Paper](https://www.biorxiv.org/content/10.1101/2024.09.27.615440v1.full.pdf)    |    💻 [Code](https://osf.io/rnx89/)    |    💾 [datasets](https://osf.io/rnx89/)       
 **Co-supervised PhD project.** We applied Representational Similarity Analysis (RSA) to decode word representations at both  orthographic and semantic levels, at different temporal latencies and in different brain regions. Crucially, this decoding was performed for parafoveal words, demonstrating RSA as an additional tool, alongside RIFT, for investigating parafoveal processing during reading.</span>     
 ### Early parafoveal semantic integration in natural reading   
