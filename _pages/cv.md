@@ -17,6 +17,7 @@ Education
 &nbsp;Institute of Psychology, Chinese Academy of Sciences, China, 2018
 * B.Ed. in Applied Psychology   
 &nbsp;China Women’s University, China, 2013
+<br>
 
 Work experience
 ======
@@ -24,27 +25,30 @@ Work experience
   * Department of Psychiatry, University of Oxford
 * 2024.05 – present: Leverhulme Early Career Fellow 
   * Centre for Human Brain Health, University of Birmingham
+* 2025.10 – 12: Data Science Fellow  
+  * Faculty.AI, London
 * 2025.06 – 07: AI Resident 
   * The Machine Learning Institute, London
 * 2018.08 – 2024.04: Postdoc Researcher
   * Centre for Human Brain Health, University of Birmingham
+<br>
 
 Grants & Awards
 ======
-2025 Data Science upskilling award, University of Birmingham, UK (£1,000)
+* 2025 Data Science upskilling award, University of Birmingham, UK (£1,000)
 * **2024 Leverhulme Trust Early Career Fellowship, UK (PI: £248,000)**
 * **2024 Royal Society International Exchanges Cost Share Programme (NSFC), UK (PI: £12,000)**
 * 2022 Winner of the Pump Prime funds at the University of Birmingham, UK (£500)
 * 2021 Best Postdoc Paper at Centre of Human Brain Health, University of Birmingham, UK (£100)
 * 2017 Mingde scholarship, Chinese Academy of Sciences, China (≈ £300)
 * 2013 – 2017 Scholarship for graduates, Chinese Academy of Sciences, China (≈ £300 per year)
+<br>
 
 Skills
 ======
 * Advanced analytical expertise in neuroimaging data
   * Time-series analysis of MEG, scalp and intracranial EEG
-  * Power spectrum, phase extraction
-  * Cross-frequency coupling, Granger causality
+  * Power spectrum, phase extraction, cross-frequency coupling, Granger causality
 * In-depth knowledge of machine learning techniques
   * Natural language processing, large language models (transformers)
   * Neural networks (CNN, RNN)
