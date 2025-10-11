@@ -12,7 +12,7 @@ You can also find my papers on [my Google Scholar profile](https://scholar.googl
 
 <span style="font-size:0.9em;">(Disclaimer: The papers available on this website are provided for personal and educational use only. Any reproduction, distribution, or use of these materials for other purposes is strictly prohibited.)</span>  
 
-<span style="font-size:0.9em;">(*) denotes corresponding/senior authorship</span>  
+<span style="font-size:0.9em;">**(*) denotes corresponding/senior authorship**</span>  
 <br>
 
 # Natural Reading  
