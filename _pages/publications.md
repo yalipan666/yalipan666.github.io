@@ -65,7 +65,7 @@ Applied rapid invisible frequency tagging (RIFT) in a visual search paradigm and
 📄 [Paper](https://www.sciencedirect.com/science/article/pii/S1935861X21001443)       
 Investigated the role of the hippocampal–anterior thalamic pathway in working memory precision by delivering intracranial electrical stimulation to the anterior nucleus of the thalamus (ANT). We found that ANT stimulation enhanced working memory precision (i.e., not the number of items remembered, but the clarity and accuracy of those memories). Working with epilepsy patients provided a unique opportunity to conduct invasive (yet safe) brain stimulation and test the causal relationship between a specific brain region and a specific cognitive function.</span>     
 ### Neural activity is dynamically modulated by memory load during the maintenance of spatial objects       
-<span style="font-size:0.9em;">**Pan, Y.**, Tan, Z., Gao, Z., Li, Y., & Wang, L. (2018, **Frontiers in psychology**, 9, 1071) >        
+<span style="font-size:0.9em;">**Pan, Y.**, Tan, Z., Gao, Z., Li, Y., & Wang, L. (2018, **Frontiers in psychology**, 9, 1071)         
 📄 [Paper](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.01071/full)       
 My first neuroscience project used scalp EEG to investigate the effect of working memory load (i.e., the number of items maintained in mind) on brain activity. We found that neural responses did not change linearly with memory load but instead showed dynamic modulation. In addition, occipital alpha power decreased with increasing load, supporting the functional role of alpha oscillations in "gating by inhibition".</span>     
 ### Lateral prefrontal cortex triggers bistable perception switching using human intracranial EEG     
