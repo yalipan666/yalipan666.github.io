@@ -39,7 +39,7 @@ author_profile: true
 3) 2022.09 – 2023.05 &ensp;  Victoria Gorneva     
 </span>
 ### -	Undergraduate students    
-<span style="font-size:0.9em;">1)	2021.10 – 2023.06 &ensp; Tamseel Naveed, Abbie Evans (progressed to an MSc at University of Birmingham)
+<span style="font-size:0.9em;">1)	2021.10 – 2023.06 &ensp; Tamseel Naveed, Abbie Evans (progressed to an MSc at University of Birmingham)           
 2)	2021.10 – 2023.06 &ensp; Abbie Evans (progressed to an MSc at University of Birmingham)   
 3)	2020.07 – 2020.10	&ensp; Sai Sumedh (visiting from the Indian Institute of Technology; progressed to a PhD at MIT)   
 4)	2017.09 – 2018.07	&ensp; Jiali Liu (progressed to a PhD at Chinese Academy of Sciences)   
