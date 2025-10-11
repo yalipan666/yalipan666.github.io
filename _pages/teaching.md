@@ -34,13 +34,15 @@ author_profile: true
 3)	2021.10 – 2022.10 &ensp; Dongwei Li (visiting from Beijing Normal University)   
 </span>
 ### -	Master students at University of Birmingham    
-<span style="font-size:0.9em;">1)	2023.12 – 2024.07  &ensp; Veronika Prigorkina (progressed to a PhD)   
-2)	2022.09 – 2023.05 &ensp;  Brooke Cannon, Victoria Gorneva   
+<span style="font-size:0.9em;">1)	2023.12 – 2024.07  &ensp; Veronika Prigorkina (progressed to a PhD at Vrije Universiteit Amsterdam)      
+2)	2022.09 – 2023.05 &ensp;  Brooke Cannon
+3) 2022.09 – 2023.05 &ensp;  Victoria Gorneva     
 </span>
 ### -	Undergraduate students    
-<span style="font-size:0.9em;">1)	2021.10 – 2023.06 &ensp; Tamseel Naveed, Abbie Evans (University of Birmingham; progressed to an MSc)   
-2)	2020.07 – 2020.10	&ensp; Sai Sumedh (visiting from the Indian Institute of Technology; progressed to a PhD)   
-3)	2017.09 – 2018.07	&ensp; Jiali Liu (Chinese Academy of Sciences; progressed to a PhD)   
+<span style="font-size:0.9em;">1)	2021.10 – 2023.06 &ensp; Tamseel Naveed, Abbie Evans (progressed to an MSc at University of Birmingham)
+2)	2021.10 – 2023.06 &ensp; Abbie Evans (progressed to an MSc at University of Birmingham)   
+3)	2020.07 – 2020.10	&ensp; Sai Sumedh (visiting from the Indian Institute of Technology; progressed to a PhD at MIT)   
+4)	2017.09 – 2018.07	&ensp; Jiali Liu (progressed to a PhD at Chinese Academy of Sciences)   
 </span>
 <br>
 <br>
